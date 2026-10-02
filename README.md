@@ -84,3 +84,9 @@ The final application allows users to enter the relevant child-related features 
 Disclaimer
 
 This project is an educational Machine Learning project and is not intended to provide medical or psychological diagnosis.
+<img width="1920" height="875" alt="Screenshot 2026-10-02 072610" src="https://github.com/user-attachments/assets/c3110378-c8fc-41ff-9b0b-c056bb71d37a" />
+<img width="1901" height="891" alt="Screenshot 2026-10-02 072533" src="https://github.com/user-attachments/assets/163582fc-19c3-4797-a939-f1fbae252a2b" />
+<img width="1867" height="893" alt="Screenshot 2026-10-02 072456" src="https://github.com/user-attachments/assets/c81a98d1-d06b-434e-b890-afe0e587f4c4" />
+<img width="1871" height="897" alt="Screenshot 2026-10-02 072630" src="https://github.com/user-attachments/assets/6a50fbca-2d2f-4c94-98c1-1726f0186e48" />
+
+
